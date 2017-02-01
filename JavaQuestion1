@@ -1,0 +1,3 @@
+How many objects are created in the following code?
+
+String s = new String("xwyz");

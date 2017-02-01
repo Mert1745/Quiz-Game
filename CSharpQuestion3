@@ -1,0 +1,9 @@
+What is the result of the following code?
+
+List<string> names = new List<string>();
+names.AddRange(new []{"Park", "Tommy", "James"});
+
+var v = names.OrderBy(n => n.Length)
+			.SingleOrDefault();
+
+Console.writeLine(v);

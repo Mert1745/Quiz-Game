@@ -1,0 +1,4 @@
+Code does NOT compile
+Code compiles and the output is x != 6
+Code compiles and an AssertionError is thrown
+Code compiles and an AssertionError is thrown with x != 6 as additional output

@@ -1,0 +1,7 @@
+int? i = 8 >> 5; 
+int? j = i > 0 ? i : null; 
+var a = j ?? int.MinValue; 
+
+Console.WriteLine(a);
+
+What is the output of this code?

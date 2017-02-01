@@ -1,0 +1,5 @@
+ public static void main(String[] args) {
+   int x = 7;
+   assert (x == 6) ? "x == 6" : "x != 6";
+ }
+ What is the result if you try to compile and then run it with assertions enabled? 

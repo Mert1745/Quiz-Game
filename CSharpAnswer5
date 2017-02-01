@@ -1,0 +1,4 @@
+public void Set(dynamic o) {}
+public dynamic Get() {}
+private var GetData() {}
+protected override int[] A() {}

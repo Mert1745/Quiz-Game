@@ -1,0 +1,1 @@
+ If you run C# executable file multiple times, multiple processes are created. If you want to have only one application process even if you launch multiple times, what can you use?
